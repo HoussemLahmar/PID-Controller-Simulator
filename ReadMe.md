@@ -91,8 +91,8 @@ The simulator uses Matplotlib to plot:
 
 Example output:
 
-![Example Plot](https://via.placeholder.com/800x400)  
-*(Replace with an actual screenshot of your simulator's output.)*
+![Texte alternatif](pid.png)
+
 
 ## Future Improvements
 
