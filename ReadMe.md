@@ -25,7 +25,7 @@ A Python-based simulator for PID controllers, featuring modular design, interact
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PID-Controller-Simulator.git
+   git clone https://github.com/HoussemLahmar/PID-Controller-Simulator.git
    ```
 2. Navigate to the project folder:
    ```bash
