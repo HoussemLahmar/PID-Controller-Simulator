@@ -100,9 +100,6 @@ Example output:
 - Implement GUI for interactive simulations.
 - Extend disturbance modeling to include stochastic noise.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contributing
 
